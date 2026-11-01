@@ -4,7 +4,7 @@
 
 ###  Overview
 
-This directory houses the **SystemVerilog (RTL) source files** for the Single-Cycle RISC-V Processor. Each module represents a key functional component of the processor, working together to execute instructions in a single clock cycle.
+This directory contains the **SystemVerilog (RTL) source files** for the Single-Cycle RISC-V Processor. Each module represents a key functional component of the processor, working together to execute instructions in a single clock cycle.
 
 ### 🧩 Module Description
 
